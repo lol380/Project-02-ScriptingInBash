@@ -14,3 +14,4 @@
 # This is when I started to research other ways to count strings within the bash interpreter, rather than using a unix command line function like wc.
 # I completed the exercise within "17.1. For Loop" by starting with the interpreter; redirecting ls output to a text file; using the following 'for' loop: for i in $( cat [text file] ); do echo -n $i"has"${#i}; echo; done *new line after semi-colon*
 # Note: I discovered the use of the curly bracket and pound sign for counting from https://linuxhint.com/length_of_string_bash/ after four hours of troubleshooting using the wc -c command which was not working for the 17.1 exercise.
+# I sent my repo link to Jordan Belloff, on 10/3/2020 at 12:27PM.
