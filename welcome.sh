@@ -1,5 +1,6 @@
 #!/bin/bash
-
+//This block displays a "Welcome Message"
+//containing the user and date.
 greeting="Welcome"
 user=$(whoami)
 day=$(date +%A)

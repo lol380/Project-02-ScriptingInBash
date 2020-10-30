@@ -1,4 +1,6 @@
 #!/bin/bash
+//This is the for loop
+//from the last project
 
 ls > filelist.txt
 
